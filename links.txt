@@ -1,1 +1,6 @@
-
+https://raw.githubusercontent.com/KevinChen222/rule-/refs/heads/main/NBA.list
+https://raw.githubusercontent.com/KevinChen222/rule-/refs/heads/main/DirectKevin.list
+https://raw.githubusercontent.com/KevinChen222/rule-/refs/heads/main/Emby.list
+https://raw.githubusercontent.com/qichiyuhub/rule/master/Direct.list
+https://raw.githubusercontent.com/qichiyuhub/rule/master/ProxyLite.list
+https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/rule/openai.list
