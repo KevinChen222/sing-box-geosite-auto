@@ -2,15 +2,11 @@
   "rules": [
     {
       "domain": [
-        "911tg3rs.com",
         "anime.makima.online",
         "cemby.lilyya.xyz",
         "cinema.makima.online",
         "restrict.makima.online",
-        "sub.godya.cc",
-        "sub.halo.do",
-        "theater.makima.online",
-        "www.linkeless.net"
+        "theater.makima.online"
       ]
     }
   ],
